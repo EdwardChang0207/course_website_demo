@@ -1,0 +1,13 @@
+.onlineClassDoc-container{
+    width: 100%;
+    font-size: 2.5vmin;
+}
+#pic-container{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+}
+#onlineClassPic{
+    height: 40vmin;
+}

@@ -1,0 +1,58 @@
+.banner{
+    width: 80%;
+    height: 78vmin;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+  .banner video{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    object-fit: cover;
+    opacity: 1;
+    z-index: 1;
+    padding: 0 0;
+}
+.text-container{
+    width: 100%;
+    height: 100%;
+    padding-top: 29vmin;  
+    position: absolute;
+    top: 0; 
+    z-index: 3;
+}
+.banner h1{
+    font-size: 6vmin;    
+}
+.banner h2{
+    font-size: 3.5vmin;
+}
+.text-background{
+    width: 100%;
+    height: 100%;
+    padding: 0 0;
+    position: absolute;
+    background: linear-gradient(
+        to right, #1a1a1a, #d1d1d1
+    );
+    opacity: 0.55;
+    text-align: start;
+    top: 0;
+    z-index: 2;
+  }
+.text{
+    margin: 0 0;
+    color: white;
+    opacity: 1;
+}
+.importent{
+    color: red;
+}
+.mybtn{
+    font-size: 3.7vmin;
+}

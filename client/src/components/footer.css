@@ -1,0 +1,7 @@
+.footerContainer{
+    color: white;
+}
+.footerText-container{
+    display: flex;
+    justify-content: center;
+}

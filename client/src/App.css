@@ -1,0 +1,15 @@
+*{
+    font-family:Microsoft JhengHei;
+}
+.app-container{
+    overflow: hidden;
+}
+#navbar-container{
+    font-size: 15px;
+}
+#basicClass-container{
+    text-align: center;
+}
+#comingsoon-container{
+    text-align: center;
+}

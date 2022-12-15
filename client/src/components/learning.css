@@ -1,0 +1,21 @@
+.title-container{
+    width: 100%;
+    height: 5vmin;
+    display: flex;
+    justify-content: center;
+}
+.learningText-container{
+    text-align: start;
+    display: flex;
+    justify-content: center;
+}
+.learningText-container h4{
+    width: fit-content;
+    font-size: 3.7vmin;
+    line-height: 9vmin;
+}
+.learningText-container h5{
+    width: fit-content;
+    font-size: 2.7vmin;
+    line-height: 9vmin;
+}
